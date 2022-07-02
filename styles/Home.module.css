@@ -1,4 +1,4 @@
-.container {
+/* .container {
   padding: 0 2rem;
 }
 
@@ -113,4 +113,23 @@
     width: 100%;
     flex-direction: column;
   }
+} */
+
+
+.btn {
+  display: flex;
+  justify-content: center;
+}
+
+.btn a {
+
+  background-color: rgb(231, 3, 3);
+  padding: 10px 20px;
+  color: white;
+  border-radius: 5px;
+  transition: 0.5s;
+}
+
+.btn a:hover {
+  background-color: rgb(194, 1, 1);
 }

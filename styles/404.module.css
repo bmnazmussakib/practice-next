@@ -1,0 +1,19 @@
+.container {
+    text-align: center;
+}
+
+.oops {
+    font-size: 50px;
+    /* color: rgb(231, 3, 3); */
+}
+
+.notFound {
+    font-size: 20px;
+    /* color: rgb(231, 3, 3); */
+}
+
+.error {
+    font-size: 80px;
+    font-weight: 800;
+    color: rgb(231, 3, 3);
+}

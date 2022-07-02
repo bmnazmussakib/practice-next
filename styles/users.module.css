@@ -1,0 +1,20 @@
+.title {
+    text-align: center;
+}
+
+
+
+.username {
+    background-color: white;
+    padding: 20px 20px;
+    display: block;
+    border-left: 10px solid white;
+    transition: 0.5s;
+}
+
+
+.username:hover {
+    color: #16a0de;
+    cursor: pointer;
+    border-left: 10px solid #16a0de;
+}
